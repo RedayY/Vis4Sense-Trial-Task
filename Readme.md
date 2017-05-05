@@ -19,11 +19,11 @@ Update: you can also use Jasmine as the testing framework. A free course on Java
 Approach:
 ========
 
--Identify Bug
--Understand Code;
--Create Testing Enviroment;
--Crease Test Cases;
--Run in circles till I come up with something;
--Fix Bug;
+>Identify Bug
+>Understand Code;
+>Create Testing Enviroment;
+>Create Test Cases;
+>Run in circles till I come up with something;
+>Fix Bug;
 
 # MD made with Dillinger
